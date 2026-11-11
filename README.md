@@ -13,3 +13,4 @@ Portal Sistem Informasi Perpustakaan & Formulir Pengadaan Usulan Koleksi Buku Fa
    - Export Excel (`.xls`) rekapitulasi pengadaan koleksi buku.
    - Cetak Dokumen Resmi Formulir Pengadaan Buku (PDF/Print) lengkap dengan Kop FAI UMKLA dan tanda tangan Kepala Perpustakaan & Dekan FAI.
    - Pengaturan portal, buka/tutup form publik, dan keamanan ubah password admin.
+
