@@ -1,0 +1,4 @@
+# FAILib Git Ignore
+.DS_Store
+Thumbs.db
+*.log
